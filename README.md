@@ -6,7 +6,7 @@ notation display of the HP-25/HP-35 calculators.
 
 Engineering notation expresses a number in scientific notation except that
 the exponent is forced to be a multiple of three. This format allows us to
-use common multiplies such as 'k' for 10^3, u for 10^-6, etc.
+use common multiplies such as 'k' for 10^3, 'u' for 10^-6, etc.
 
 The number of digits returned is 3 + 'precision'. The precision default is 0, causing
 the routine to express the number with 3 significant digits.
